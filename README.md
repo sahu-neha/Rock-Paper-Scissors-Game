@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors game using Python
 
-**Objective:** Implement a command-line game of Rock, Paper, Scissors in Python.
+> **Objective:** Implement a command-line game of Rock, Paper, Scissors in Python.
 
 ![Thumbnail](img/thumbnail_RPS.png)
 
